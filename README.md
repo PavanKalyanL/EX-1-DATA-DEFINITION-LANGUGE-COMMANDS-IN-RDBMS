@@ -71,3 +71,7 @@ TRUNCATE TABLE student;
 ### OUTPUT:
 
 ![](1.5.png)
+
+## RESULT:
+
+Hence student database has been created and DDL queries are executed successfully using SQL.
